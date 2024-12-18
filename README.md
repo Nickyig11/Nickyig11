@@ -45,8 +45,9 @@ Here are some of the repositories showcasing my work:
 
 ## 📫 **Get in Touch**
 Feel free to reach out if you want to collaborate on a project, discuss new ideas, or explore opportunities together!  
-- **GitHub**: [nickyig11](#)  
-- **Email**: [your.email@example.com](#)  
+- **GitHub**: [nickyig11](https://github.com/Nickyig11)  
+- **Email**: [nickyig11@gmail.com](mailto:nickyig11@gmail.com)  
+- **LinkedIn**: [Nicky Igwemadu](https://www.linkedin.com/in/nicky-igwemadu-06a091335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
