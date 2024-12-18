@@ -17,15 +17,15 @@ Hello! I'm **Nicky Igwemadu**, and I hold a degree in **Multiplatform Applicatio
 ## 🛠️ **My Projects**
 Here are some of the repositories showcasing my work:
 
-1. ### 🎮 [**RolGameJavaUnit5**](#)
+1. ### 🎮 [**RolGameJavaUnit5**](https://github.com/Nickyig11/RolGameJavaUnit5)
    - **Language**: Java  
    - A simple role-playing game (RPG) built in Java that demonstrates core programming logic and game mechanics.
 
-2. ### 🌐 [**PROYECTOFINALLEMA**](#)
+2. ### 🌐 [**PROYECTOFINALLEMA**](https://github.com/Nickyig11/PROYECTOFINALLEMA)
    - **Language**: HTML  
    - A final project focused on web development using HTML, showcasing a structured and well-organized website.
 
-3. ### 🎮 [**Game_nichi_up**](#)
+3. ### 🎮 [**Game_nichi_up**](https://github.com/Nickyig11/Game_nichi_up)
    - **Language**: C#  
    - A parkour-inspired game that challenges players to climb and reach the goal while overcoming obstacles.
 
