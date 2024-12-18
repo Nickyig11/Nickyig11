@@ -2,6 +2,8 @@
 
 Hello! I'm **Nicky Igwemadu**, and I hold a degree in **Multiplatform Application Development**. I’m passionate about developing efficient, creative, and user-friendly software solutions across multiple platforms.
 
+📄 **More information?** Check out my traditional Curriculum here: [Nicky-Igwemadu-Curriculum.pdf](./Nicky-Igwemadu-Curriculum.pdf)
+
 ---
 
 ## 🚀 **About Me**
