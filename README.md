@@ -29,7 +29,7 @@ Here are some of the repositories showcasing my work:
    - **Language**: C#  
    - A parkour-inspired game that challenges players to climb and reach the goal while overcoming obstacles.
 
-4. ### 🧩 [*Blender_Creations**]([https://github.com/Nickyig11/Game_nichi_up](https://github.com/Nickyig11/Blender_Creations))
+4. ### 🧩 [**Blender_Creations**](https://github.com/Nickyig11/Blender_Creations)
    - **Tools**: Blender  
    - A collection of 3D models and animations created using **Blender** with a focus on futuristic and cyberpunk themes.
 
