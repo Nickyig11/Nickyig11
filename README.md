@@ -11,7 +11,13 @@ Hello! I'm **Nicky Igwemadu**, and I hold a degree in **Multiplatform Applicatio
 - **Databases**: Strong expertise in **SQL** for database design and management.
 - **Web Development**: Proficient in **HTML**, **CSS**, and **XML** to create dynamic and responsive web applications.
 - **Tools & Methodologies**: Experience working in agile environments using tools like **Git**, **Trello**, and the **Scrum** methodology for effective teamwork and project delivery.
+---
 
+## 🌟 **Why Work With Me?**
+- **Versatility**: I adapt quickly to different technologies and project requirements.
+- **Team Player**: Collaborative experience with version control (Git) and agile tools like Trello.
+- **Passion for Learning**: Always looking for new challenges and ways to improve my skills.
+- **Commitment**: I deliver high-quality solutions on time with attention to detail.
 ---
 
 ## 🛠️ **My Projects**
@@ -33,13 +39,7 @@ Here are some of the repositories showcasing my work:
    - **Tools**: Blender  
    - A collection of 3D models and animations created using **Blender** with a focus on futuristic and cyberpunk themes.
 
----
 
-## 🌟 **Why Work With Me?**
-- **Versatility**: I adapt quickly to different technologies and project requirements.
-- **Team Player**: Collaborative experience with version control (Git) and agile tools like Trello.
-- **Passion for Learning**: Always looking for new challenges and ways to improve my skills.
-- **Commitment**: I deliver high-quality solutions on time with attention to detail.
 
 ---
 
