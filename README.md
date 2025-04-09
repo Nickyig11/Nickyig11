@@ -24,19 +24,19 @@ Hello! I'm **Nicky Igwemadu**, and I hold a degree in **Multiplatform Applicatio
 ## 🛠️ **My Projects**
 Here are some of the repositories showcasing my work:
 
-1. ### 🎮 [**RolGameJavaUnit5**](https://github.com/Nickyig11/RolGameJavaUnit5)
-   - **Language**: Java  
+1. ### 🎮 [**UbiConfirmation**](https://github.com/Nickyig11/-SessionManagement_android-client-_python-server-?tab=readme-ov-file)
+   - **Language**: Java Client and Python Server.
    - A simple role-playing game (RPG) built in Java that demonstrates core programming logic and game mechanics.
 
-2. ### 🌐 [**PROYECTOFINALLEMA**](https://github.com/Nickyig11/PROYECTOFINALLEMA)
+3. ### 🌐 [**PROYECTOFINALLEMA**](https://github.com/Nickyig11/PROYECTOFINALLEMA)
    - **Language**: HTML  
    - A final project focused on web development using HTML, showcasing a structured and well-organized website.
 
-3. ### 🎮 [**Game_nichi_up**](https://github.com/Nickyig11/Game_nichi_up)
+4. ### 🎮 [**Game_nichi_up**](https://github.com/Nickyig11/Game_nichi_up)
    - **Language**: C#  
    - A parkour-inspired game that challenges players to climb and reach the goal while overcoming obstacles.
 
-4. ### 🧩 [**Blender_Creations**](https://github.com/Nickyig11/Blender_Creations)
+5. ### 🧩 [**Blender_Creations**](https://github.com/Nickyig11/Blender_Creations)
    - **Tools**: Blender  
    - A collection of 3D models and animations created using **Blender** with a focus on futuristic and cyberpunk themes.
 
