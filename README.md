@@ -26,7 +26,7 @@ Here are some of the repositories showcasing my work:
 
 1. ### 🎮 [**UbiConfirmation**](https://github.com/Nickyig11/-SessionManagement_android-client-_python-server-?tab=readme-ov-file)
    - **Language**: Java Client and Python Server.
-   - A simple role-playing game (RPG) built in Java that demonstrates core programming logic and game mechanics.
+   - This project involves developing a client-server application to manage employee attendance records in a company. 
 
 3. ### 🌐 [**PROYECTOFINALLEMA**](https://github.com/Nickyig11/PROYECTOFINALLEMA)
    - **Language**: HTML  
