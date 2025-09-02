@@ -24,19 +24,31 @@ Hello! I'm **Nicky Igwemadu**, and I hold a degree in **Multiplatform Applicatio
 ## 🛠️ **My Projects**
 Here are some of the repositories showcasing my work:
 
-1. ### 🎮 [**UbiConfirmation**](https://github.com/Nickyig11/-SessionManagement_android-client-_python-server-?tab=readme-ov-file)
+
+
+
+1. ### 🎮 [**juma-epatrol-app**](https://github.com/Nickyig11/juma-epatrol-app/blob/main/README.md)
+
+   - **Lenguajes**: Java (cliente) y Python (servidor).
+
+   - Este proyecto lo desarrollé en mi empresa actual Juma para gestionar de forma eficiente la asistencia de empleados.
+
+   - Diseñé un sistema cliente-servidor que permite registrar entradas y salidas, almacenar los datos de manera centralizada y generar reportes automáticos para el área administrativa.
+
+   - Puse especial atención en la seguridad de la comunicación, la escalabilidad del backend en Python y la facilidad de uso del cliente en Java, asegurando que el personal pudiera adoptarlo rápidamente.
+3. ### 🎮 [**UbiConfirmation**](https://github.com/Nickyig11/-SessionManagement_android-client-_python-server-?tab=readme-ov-file)
    - **Language**: Java Client and Python Server.
    - This project involves developing a client-server application to manage employee attendance records in a company. 
 
-3. ### 🌐 [**PROYECTOFINALLEMA**](https://github.com/Nickyig11/PROYECTOFINALLEMA)
+4. ### 🌐 [**PROYECTOFINALLEMA**](https://github.com/Nickyig11/PROYECTOFINALLEMA)
    - **Language**: HTML  
    - A final project focused on web development using HTML, showcasing a structured and well-organized website.
 
-4. ### 🎮 [**Game_nichi_up**](https://github.com/Nickyig11/Game_nichi_up)
+5. ### 🎮 [**Game_nichi_up**](https://github.com/Nickyig11/Game_nichi_up)
    - **Language**: C#  
    - A parkour-inspired game that challenges players to climb and reach the goal while overcoming obstacles.
 
-5. ### 🧩 [**Blender_Creations**](https://github.com/Nickyig11/Blender_Creations)
+6. ### 🧩 [**Blender_Creations**](https://github.com/Nickyig11/Blender_Creations)
    - **Tools**: Blender  
    - A collection of 3D models and animations created using **Blender** with a focus on futuristic and cyberpunk themes.
 
