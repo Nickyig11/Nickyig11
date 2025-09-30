@@ -29,13 +29,22 @@ Here are some of the repositories showcasing my work:
 
 1. ### 🎮 [**juma-epatrol-app**](https://github.com/Nickyig11/juma-epatrol-app/blob/main/README.md)
 
-   - **Lenguajes**: Java (cliente) y Python (servidor).
+   - **Languages**: Java (client) and Python (server).
 
-   - Este proyecto lo desarrollé en mi empresa actual Juma para gestionar de forma eficiente la asistencia de empleados.
+   - I developed this project at my current company, Juma, to efficiently manage employee attendance.
 
-   - Diseñé un sistema cliente-servidor que permite registrar entradas y salidas, almacenar los datos de manera centralizada y generar reportes automáticos para el área administrativa.
+   - I designed a client-server system that allows for logging entries and exits, centrally storing data, and generating automatic reports for the administrative department.
 
-   - Puse especial atención en la seguridad de la comunicación, la escalabilidad del backend en Python y la facilidad de uso del cliente en Java, asegurando que el personal pudiera adoptarlo rápidamente.
+   - I paid special attention to communication security, the scalability of the Python backend, and the user-friendliness of the Java client, ensuring rapid adoption by staff.
+
+
+2.  ### 🚀 [**SpeedSound: Transform Your Music with Rhythm and Tone**](https://github.com/Nickyig11/BpmAudioClient)
+
+    -   **Languages**: Kotlin (client) and Python (server).
+
+    -   SpeedSound is an innovative mobile application I developed to revolutionize how musicians, producers, and enthusiasts interact with audio. It allows users to modify the tempo (BPM) and pitch of their favorite songs, offering a fully customizable musical experience. My goal was to create a pocket-sized studio for experimenting with sound, adapting it for practice, or simply enjoying music uniquely.
+
+    -   **Key Features**: Includes music library exploration, real-time BPM modification, favorites management, change preview, integrated playback, user authentication, and intuitive navigation.
 3. ### 🎮 [**UbiConfirmation**](https://github.com/Nickyig11/-SessionManagement_android-client-_python-server-?tab=readme-ov-file)
    - **Language**: Java Client and Python Server.
    - This project involves developing a client-server application to manage employee attendance records in a company. 
